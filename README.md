@@ -5,7 +5,7 @@
 ## Spotify Web API Password Reset V 1.6.0
 Spotify Password reset bot using WEB API (Latest chrome fingerprints) to ensure  compatibility with web-based authentication workflows.
 
-:white_check_mark:  WEB API Based . 
+:white_check_mark:  WEB API Based.  
 :white_check_mark:  Check If Account Exists on Spotify Database.  
 :white_check_mark:  Uses V3 reCaptcha Enterprise. Supports ANTI-CAPTCHA and CAPSOLVER.  
 :white_check_mark:  Supports multiple IMAP Settings.  
