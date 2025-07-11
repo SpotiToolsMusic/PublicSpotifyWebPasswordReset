@@ -1,4 +1,4 @@
-## Contact Telegram [@SpotiTools]
+## Contact Me Via Telegram [@SpotiTools]
 
 [https://t.me/SpotiTools](https://t.me/SpotiTools)
 
@@ -17,7 +17,7 @@ Spotify Password reset bot using WEB API (Latest chrome fingerprints) to ensure 
 ![WEB_PASSWORD_RESET](https://github.com/user-attachments/assets/ebbefab4-104e-4746-afb6-34f25280467e)
 
 
-## Contact Telegram [@SpotiTools]
+## Contact Me Via Telegram [@SpotiTools]
 
 [https://t.me/SpotiTools](https://t.me/SpotiTools)
 
