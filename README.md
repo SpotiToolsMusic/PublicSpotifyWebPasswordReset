@@ -1,6 +1,12 @@
+## DISCORD [SPTOI TOOLS API]
+
+https://discord.gg/hxShyEEqqK
+
 ## Contact Me Via Telegram [@SpotiTools]
 
 [https://t.me/SpotiTools](https://t.me/SpotiTools)
+
+## Disclaimer
 
 ## Spotify Web API Password Reset V 1.6.0
 Spotify Password reset bot using WEB API (Latest chrome fingerprints) to ensure  compatibility with web-based authentication workflows.
@@ -17,9 +23,15 @@ Spotify Password reset bot using WEB API (Latest chrome fingerprints) to ensure 
 ![WEB_PASSWORD_RESET](https://github.com/user-attachments/assets/ebbefab4-104e-4746-afb6-34f25280467e)
 
 
+## DISCORD [SPTOI TOOLS API]
+
+https://discord.gg/hxShyEEqqK
+
 ## Contact Me Via Telegram [@SpotiTools]
 
 [https://t.me/SpotiTools](https://t.me/SpotiTools)
+
+## Disclaimer
 
 ## Disclaimer
 
